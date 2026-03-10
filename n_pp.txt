@@ -17,6 +17,8 @@ shipping, billing, and payment information,
 
 your transaction history,
 
+We may collect and process precise location data in specific cases, especially when the user’s role is Delivery/Courier, to enable real-time order tracking and ensure accurate delivery services.
+
 information about other people that you may provide to us with any program or services,
 
 information about your computer or device, including browser type and settings, IP address, and traffic data relating to your Internet connection,
