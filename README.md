@@ -2,7 +2,11 @@
 
 <p align="center"><i>Single-source repository for the Zeal IO Ltd. privacy policy text (`n_pp.txt`) that governs the Zeal Rewards website and mobile applications.</i></p>
 
-<p align="center">![Language](https://img.shields.io/badge/lang-?-999999) ![Status](https://img.shields.io/badge/status-active-2EA44F) ![Visibility](https://img.shields.io/badge/repo-public-24292F)</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/lang-?-999999" alt="Language">
+  <img src="https://img.shields.io/badge/status-active-2EA44F" alt="Status">
+  <img src="https://img.shields.io/badge/repo-public-24292F" alt="Visibility">
+</p>
 
 ---
 ## Contents
