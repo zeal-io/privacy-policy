@@ -1,6 +1,6 @@
 <h1 align="center">Privacy Policy</h1>
 
-<p align="center"><i>Single-source repository for the Zeal IO Ltd. privacy policy text (`n_pp.txt`) that governs the Zeal Rewards website and mobile applications.</i></p>
+<p align="center"><i>Single-source repository for the Zeal IO Ltd. privacy policy text (<code>n_pp.txt</code>) that governs the Zeal Rewards website and mobile applications.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/lang-?-999999" alt="Language">
